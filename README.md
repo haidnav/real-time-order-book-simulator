@@ -3,4 +3,4 @@ This Python application simulates a real-time order book, providing a visual rep
 
 The application generates random buy and sell orders for BTC/GBP and displays them within a graphical user interface (GUI).
 
-![Demo Monte Carlo Simulated graph]([https://github.com/haidnav/MonteCarloSimulation/blob/main/demo.png](https://github.com/haidnav/real-time-order-book-simulator/blob/main/orderbook.png)https://github.com/haidnav/real-time-order-book-simulator/blob/main/orderbook.png)
+![Real-time orderbook simulator screenshot](https://github.com/haidnav/real-time-order-book-simulator/blob/main/orderbook.png)
