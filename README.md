@@ -16,13 +16,13 @@ The application generates random buy and sell orders for BTC/GBP and displays th
 
 ## Requirements
 
-- Python 3.6 or higher
+- **Python 3.6** or higher
 - Tkinter (Python's standard GUI library)
 
 ## Usage
 1. Download the zip or clone the repo
-2. In ```**settings.py**```, change the values for min_price, max_price, min_btc, max_btc and the time interval variables. These settings allow you to tweak the frequency of generations as well as length of simulations.
-3. In the terminal, navigate to your projects directory and run ```**python3 app.py**```
+2. In **`settings.py`**, change the values for **`min_price`**, **`max_price`**, **`min_btc`**, **`max_btc`** and the time interval variables. These settings allow you to tweak the frequency of generations as well as length of simulations.
+3. In the terminal, navigate to your projects directory and run **`python3 app.py`**
    - this should open the GUI interface
-   - Click ```**Start Simulation**```
+   - Click **`Start Simulation`**
   
